@@ -1,5 +1,6 @@
 .venv/
 .deps/
+.tools/
 __pycache__/
 *.py[cod]
 .streamlit/secrets.toml
